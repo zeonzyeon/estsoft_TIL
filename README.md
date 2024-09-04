@@ -15,9 +15,9 @@ ESTsoft 백엔드 개발자 부트캠프 6기
 
 1. [JavaScript 기초](javascript\js_240812.md)
 
-2. [함수 / 배열 메소드](javascript\js_240813.md)
+2. [함수, 배열 메소드](javascript\js_240813.md)
 
-3. [JSON / DOM](javascript\js_240814.md)
+3. [JSON, DOM](javascript\js_240814.md)
 
 ## JAVA
 
