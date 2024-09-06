@@ -33,7 +33,7 @@ ESTsoft 백엔드 개발자 부트캠프 6기
 
 <br>
 
-6. 클래스
+6. [클래스](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240906.md)
 
 7. 상속
 
