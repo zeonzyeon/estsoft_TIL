@@ -35,7 +35,7 @@ ESTsoft 백엔드 개발자 부트캠프 6기
 
 6. [클래스](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240906.md)
 
-7. 상속
+7. [상속](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240909.md)
 
 8. 인터페이스
 
