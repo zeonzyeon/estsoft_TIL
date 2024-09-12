@@ -39,9 +39,9 @@ ESTsoft 백엔드 개발자 부트캠프 6기
 
 8. [인터페이스](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240910.md)
 
-9. 예외처리
+9. [예외처리](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240911.md)
 
-10. 제네릭
+10. [제네릭](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240912.md)
 
 <br>
 
