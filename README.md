@@ -1,15 +1,29 @@
 # ESTsoft TIL
-ESTsoft 백엔드 개발자 부트캠프 6기
+<details>
+<summary>ESTsoft 백엔드 개발자 부트캠프 6기</summary>
+
+<br>
+
+- 훈련기관 : (주)이스트소프트
+
+- 훈련기간 : 2024년 8월 5일 ~ 2024년 12월 20일
+</details>
+
+<br>
 
 ## HTML
 
 1. [HTML 기초](https://github.com/zeonzyeon/estsoft_TIL/blob/main/html/html_240807.md)
+
+<br>
 
 ## CSS
 
 1. [CSS 선택자](https://github.com/zeonzyeon/estsoft_TIL/blob/main/css/css_240808.md)
 
 2. [CSS Box Model](https://github.com/zeonzyeon/estsoft_TIL/blob/main/css/css_240809.md)
+
+<br>
 
 ## JavaScript
 
@@ -18,6 +32,8 @@ ESTsoft 백엔드 개발자 부트캠프 6기
 2. [함수, 배열 메소드](https://github.com/zeonzyeon/estsoft_TIL/blob/main/javascript/js_240813.md)
 
 3. [JSON, DOM](https://github.com/zeonzyeon/estsoft_TIL/blob/main/javascript/js_240814.md)
+
+<br>
 
 ## JAVA
 
