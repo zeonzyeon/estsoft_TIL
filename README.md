@@ -31,7 +31,7 @@
 
 2. [함수, 배열 메소드](https://github.com/zeonzyeon/estsoft_TIL/blob/main/javascript/js_240813.md)
 
-3. [JSON, DOM](https://github.com/zeonzyeon/estsoft_TIL/blob/main/javascript/js_240814.md)
+3. [Map과 Set, JSON, DOM](https://github.com/zeonzyeon/estsoft_TIL/blob/main/javascript/js_240814.md)
 
 <br>
 
