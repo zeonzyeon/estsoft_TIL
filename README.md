@@ -1,12 +1,13 @@
-# ESTsoft TIL
+# 📝 ESTsoft TIL 
 <details>
 <summary>ESTsoft 백엔드 개발자 부트캠프 6기</summary>
 
 <br>
 
-- 훈련기관 : (주)이스트소프트
+- 훈련 기관 : (주)이스트소프트
 
-- 훈련기간 : 2024년 8월 5일 ~ 2024년 12월 20일
+- 훈련 기간 : 2024년 8월 5일 - 2024년 12월 20일
+
 </details>
 
 <br>
@@ -57,11 +58,11 @@
 
 9. [예외처리](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240911.md)
 
-10. [제네릭](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240912.md)
+10. [제네릭](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240912.md) / [제네릭2](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240919.md)
 
 <br>
 
-11. 컬렉션
+11. [컬렉션](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240920.md)
 
 12. 람다식
 
