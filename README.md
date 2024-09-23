@@ -64,6 +64,6 @@
 
 11. [컬렉션](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240920.md)
 
-12. 람다식
+12. [람다식](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240923.md)
 
 13. 스트림
