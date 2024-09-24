@@ -66,4 +66,4 @@
 
 12. [람다식](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240923.md)
 
-13. 스트림
+13. [스트림](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240924.md) / [스트림2](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240925.md)
