@@ -58,7 +58,7 @@
 
 9. [예외처리](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240911.md)
 
-10. [제네릭](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240912.md) / [제네릭2](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240919.md)
+10. [제네릭](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240912.md) / [제네릭 2](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240919.md)
 
 <br>
 
@@ -66,4 +66,11 @@
 
 12. [람다식](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240923.md)
 
-13. [스트림](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240924.md) / [스트림2](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240925.md)
+13. [스트림](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240924.md) / [스트림 2](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/java_240925.md)
+
+<br>
+
+## DBMS
+
+1. [SQL](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/sql_240926.md) /
+[SQL 2](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/sql_240927.md)
