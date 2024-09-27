@@ -73,8 +73,8 @@
 ## DBMS
 ### SQL
 
-1. [DDL, DML](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/sql_240926.md)
+1. [DDL, DML](https://github.com/zeonzyeon/estsoft_TIL/blob/main/dbms/sql_240926.md)
 
-2. [그룹화, JOIN, 서브쿼리](https://github.com/zeonzyeon/estsoft_TIL/blob/main/java/sql_240927.md)
+2. [그룹화, JOIN, 서브쿼리](https://github.com/zeonzyeon/estsoft_TIL/blob/main/dbms/sql_240927.md)
 
 3. DCL, ERD
