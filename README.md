@@ -84,28 +84,29 @@
 
 ## Spring
 
-0. [웹 애플리케이션의 이해]
-
-<br>
+0. 웹 애플리케이션의 이해
 
 1. [스프링 시작하기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/dbms/spring_241004.md)
 
-2. [스프링 컨셉 - 핵심 개념]
+2. [스프링 컨셉 공부하기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/dbms/spring_241004_2.md)
 
-3. [Spring Boot 둘러보기]
+3. [Spring Boot 둘러보기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/dbms/spring_241007.md)
 
-4. [Spring Boot 구조 이해하기]
+4. Spring Boot 구조 이해하기
 
-5. [Spring Boot 테스트]
 
 <br>
 
-6. [데이터베이스 조작이 편해지는 ORM]
+5. Spring Boot 테스트
 
-7. [Spring Boot로 블로그 만들기]
+6. 데이터베이스 조작이 편해지는 ORM
 
-8. [Thymleaf를 이용해 블로그 화면 구성하기]
+7. Spring Boot로 블로그 만들기
 
-9. [스프링 시큐리티]
+8. Thymleaf를 이용해 블로그 화면 구성하기
 
-10. [Spring 핵심 개념 심화]
+9. 스프링 시큐리티
+
+<br>
+
+10. Spring 핵심 개념 심화
