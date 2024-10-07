@@ -84,24 +84,24 @@
 
 ## Spring
 
-1. [스프링 시작하기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241004.md)
+1. [Spring 시작하기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241004.md)
 
-2. [스프링 컨셉 공부하기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241004_2.md)
+2. [Spring 컨셉 공부하기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241004_2.md)
 
 3. [Spring Boot 둘러보기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241007.md)
 
-4. Spring Boot 구조 이해하기
+4. [Spring Boot 구조 이해하기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241007_2.md)
 
 5. Spring Boot 테스트
 
 <br>
 
-6. 데이터베이스 조작이 편해지는 ORM
+6. DB 조작이 편해지는 ORM
 
 7. Spring Boot로 블로그 만들기
 
 8. Thymleaf를 이용해 블로그 화면 구성하기
 
-9. 스프링 시큐리티
+9. Spring 시큐리티
 
 10. Spring 핵심 개념 심화
