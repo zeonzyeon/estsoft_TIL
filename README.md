@@ -82,6 +82,12 @@
 
 <br>
 
+## JPA
+
+1. [ORM, 스프링 데이터 JPA, JDBC](https://github.com/zeonzyeon/estsoft_TIL/blob/main/jpa/jpa_241008.md)
+
+<br>
+
 ## Spring
 
 1. [Spring 시작하기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241004.md)
