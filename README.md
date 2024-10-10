@@ -85,6 +85,7 @@
 ## JPA
 
 1. [ORM, 스프링 데이터 JPA, JDBC](https://github.com/zeonzyeon/estsoft_TIL/blob/main/jpa/jpa_241008.md)
+2. [Spring, JPA 실습](https://github.com/zeonzyeon/spring-boot-demo/commit/579c5fbdbd4501ec297cd2ff9265c310a1ca8195)
 
 <br>
 
