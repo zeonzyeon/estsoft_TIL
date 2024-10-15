@@ -102,13 +102,13 @@
 
 4. [Spring Boot 구조 이해하기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241007_2.md)
 
-5. Spring Boot 테스트
+5. [Spring Boot 테스트](https://github.com/zeonzyeon/spring-boot-project/tree/main/src/test/java/com/estsoft/springproject)
 
 <br>
 
 6. DB 조작이 편해지는 ORM
 
-7. Spring Boot로 블로그 만들기
+7. [Spring Boot로 블로그 만들기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241015.md)
 
 8. Thymleaf를 이용해 블로그 화면 구성하기
 
