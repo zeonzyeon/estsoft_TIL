@@ -106,12 +106,16 @@
 
 <br>
 
-6. DB 조작이 편해지는 ORM
+6. [DB 조작이 편해지는 ORM](https://github.com/zeonzyeon/estsoft_TIL/blob/main/jpa/jpa_241008.md)
 
 7. [Spring Boot로 블로그 만들기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241015.md)
 
-8. Thymleaf를 이용해 블로그 화면 구성하기
+8. [Thymleaf를 이용해 블로그 화면 구성하기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241017.md)
 
 9. Spring 시큐리티
 
-10. Spring 핵심 개념 심화
+<br>
+
++ Spring MVC
+
++ Spring 핵심 개념 심화
