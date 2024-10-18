@@ -4,9 +4,9 @@
 
 <br>
 
-- 훈련 기관 : (주)이스트소프트
-
-- 훈련 기간 : 2024년 8월 5일 - 2024년 12월 20일
+> 훈련 기관 : (주) 이스트소프트
+ 
+> 훈련 기간 : 2024년 8월 5일 - 2024년 12월 20일
 
 </details>
 
@@ -116,6 +116,6 @@
 
 <br>
 
-+ Spring MVC
++ [Spring MVC](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241018.md)
 
-+ Spring 핵심 개념 심화
++ [Spring 핵심 개념 심화](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241018_2.md)
