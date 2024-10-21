@@ -112,7 +112,7 @@
 
 8. [Thymleaf를 이용해 블로그 화면 구성하기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241017.md)
 
-9. Spring 시큐리티
+9. [Spring Security](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241021.md)
 
 <br>
 
