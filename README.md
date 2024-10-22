@@ -119,3 +119,7 @@
 + [Spring MVC](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241018.md)
 
 + [Spring 핵심 개념 심화](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241018_2.md)
+
+<br>
+
++ [API 문서 자동화 - Swagger UI](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241022.md)
