@@ -123,3 +123,15 @@
 <br>
 
 + [API 문서 자동화 - Swagger UI](https://github.com/zeonzyeon/estsoft_TIL/blob/main/spring/spring_241022.md)
+
+<br>
+
+## AWS
+
+1. [EC2 서버 접속, RDS 구축하기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/aws/aws_241024.md)
+
+2. [AWS 서버에 배포해보기]
+
+<br>
+
++ [리눅스 권한 설정 관련 명령어](https://github.com/zeonzyeon/estsoft_TIL/blob/main/aws/aws_241024_2.md)
