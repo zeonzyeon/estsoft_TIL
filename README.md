@@ -130,7 +130,7 @@
 
 1. [EC2 서버 접속, RDS 구축하기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/aws/aws_241024.md)
 
-2. [AWS 서버에 배포해보기]
+2. [AWS 서버에 배포해보기](https://github.com/zeonzyeon/estsoft_TIL/blob/main/aws/aws_241025.md)
 
 <br>
 
