@@ -151,3 +151,7 @@
 2. [테스트 주도 개발 (TDD)](https://github.com/zeonzyeon/estsoft_TIL/blob/main/tdd/tdd_241119_2.md)
 
 3. [Mock을 이용한 테스트 코드 작성 실습](https://github.com/zeonzyeon/spring-boot-project?tab=readme-ov-file#mock%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C)
+
+<br>
+
++ [SonarQube 실습](https://github.com/zeonzyeon/spring-boot-project?tab=readme-ov-file#sonarqube)
