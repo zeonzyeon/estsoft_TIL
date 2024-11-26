@@ -140,7 +140,7 @@
 
 ## Docker
 
-1. [컨테이너 기반의 가상화 플랫폼](https://github.com/zeonzyeon/estsoft_TIL/blob/main/docker/docker_241118.md)
+- [컨테이너 기반의 가상화 플랫폼](https://github.com/zeonzyeon/estsoft_TIL/blob/main/docker/docker_241118.md)
 
 <br>
 
@@ -154,10 +154,17 @@
 
 <br>
 
-+ [SonarQube 실습](https://github.com/zeonzyeon/spring-boot-project?tab=readme-ov-file#sonarqube)
++ [SonarQube](https://github.com/zeonzyeon/spring-boot-project?tab=readme-ov-file#sonarqube)
 
 <br>
 
 ## CI/CD
 
-1. [CI/CD (GitHub Actions)](https://github.com/zeonzyeon/estsoft_TIL/blob/main/cicd/cicd_241121.md)
+- [CI/CD (GitHub Actions)](https://github.com/zeonzyeon/estsoft_TIL/blob/main/cicd/cicd_241121.md)
+
+<br>
+
+## 기술특강
+
+- [Azure](https://github.com/zeonzyeon/estsoft_TIL/blob/main/azure/azure_241125.md)
+
